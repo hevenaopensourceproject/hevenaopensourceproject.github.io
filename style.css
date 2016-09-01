@@ -1,0 +1,73 @@
+.header {
+    color: white;
+    background-color: #D40055;
+      padding-top: 2px;
+      padding-bottom: 2px;
+    font-family: 'Ubuntu', sans-serif;
+    width: auto;
+}
+
+h1 {
+text-align: center;
+}
+li {
+    text-align: center;
+    list-style-type: none;
+}
+ a {
+        color: white;
+     text-align: center;
+     text-decoration: none;
+      }
+      a:link {
+        color: white;
+        text-decoration: none;
+          text-align: center;
+      }
+      a:visited {
+        text-decoration: none;
+          text-align: center;
+      }
+      a:hover {
+        text-decoration: none;
+        color: #009688;
+        text-align: center;
+      }
+      a:active {
+        text-decoration: none;
+        color: white;
+          text-align: center;
+      }
+.center {
+    background-color: #009688;
+    margin: auto;
+    padding: 5px;
+    width: 80%;
+    height: 100%;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+body {
+background-color: #D40055;
+}
+
+img {
+    max-width: 40%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 20px;
+    padding: 1px;
+
+}
+video{
+max-width: 90%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 20px;
+    padding: 1px;
+}
